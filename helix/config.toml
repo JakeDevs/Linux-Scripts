@@ -14,6 +14,3 @@ s = "insert_mode"
 S = "prepend_to_line"
 n = "select_regex"
 I = "split_selection"
-
-[keys.insert]
-j = { k = "normal_mode" } # Maps `jk` to exit insert mode
