@@ -41,3 +41,7 @@ cd Linux-Scripts
 cp alacritty.yml /home/jake/.config/alacritty
 
 paru -S polymc-bin --noconfirm
+
+ssh-keygen -o
+
+cat /home/jake/.ssh/id_rsa.pub 
