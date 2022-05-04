@@ -42,6 +42,8 @@ cp alacritty.yml /home/jake/.config/alacritty
 
 paru -S polymc-bin --noconfirm
 
+sudo pacman -S steam discord bitwarden firefox
+
 ssh-keygen -o
 
 cat /home/jake/.ssh/id_rsa.pub 
