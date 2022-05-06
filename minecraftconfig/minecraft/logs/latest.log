@@ -1,0 +1,379 @@
+[20:07:40] [main/INFO]: Loading Minecraft 1.18.2 with Quilt Loader 0.16.0-beta.16
+[20:07:40] [ForkJoinPool-1-worker-12/WARN]: Warnings for mod "fabrishot"'s mod json:
+- Version ${version} does not respect SemVer -- comparison support is limited. "version" at  at line 4 column 26 path $.version
+[20:07:40] [main/INFO]: Loading 150 mods:
+	- advanced_runtime_resource_pack 0.5.5
+	- advancementinfo 1.18.2-fabric0.47.10-1.3.1
+	- animatica 0.4+1.18
+	- antighost 1.18.2-fabric0.47.10-1.1.4
+	- appleskin 2.4.0+mc1.18.2
+	- architectury 4.3.53
+	- bettermounthud 1.1.4
+	- borderlessmining 1.1.2+1.18.2
+	- caffeineconfig 1.1.0
+	- capes 1.3.0+1.18.2
+	- cem 0.7.1
+	- citresewn 1.0.1+1.18.2
+	- citresewn-defaults 1.0.1+1.18.2
+	- cloth-api 3.2.64
+	- cloth-basic-math 0.6.0
+	- cloth-client-events-v0 3.2.64
+	- cloth-common-events-v1 3.2.64
+	- cloth-config 6.2.57
+	- cloth-datagen-api-v1 3.2.64
+	- cloth-scissors-api-v1 3.2.64
+	- cloth-utils-v1 3.2.64
+	- colormatic 3.1.1+mc.1.18.2
+	- com_github_llamalad7_mixinextras 0.0.8
+	- com_moandjiezana_toml_toml4j 0.7.2
+	- completeconfig 1.4.1
+	- continuity 1.1.0+1.18.2
+	- crowdin-translate 1.4+1.18.2
+	- cull-less-leaves 1.0.0
+	- dcch 1.0
+	- debugify 1.9.0
+	- dev_isxander_settxi 2.1.1
+	- dynamicfps 2.1.0
+	- enhancedblockentities 0.6+1.18.2
+	- entity_texture_features 2.6.0
+	- entityculling 1.5.1
+	- fabric-language-kotlin 1.7.4+kotlin.1.6.21
+	- fabrishot ${version}
+	- farsight 1.18-1.8
+	- ferritecore 4.2.1
+	- gammautils 1.5.7
+	- indium 1.0.3+mc1.18.2
+	- iris 1.2.4-build.38
+	- isxander-main-menu-credits 1.0.2
+	- itemmodelfix 1.0.3+1.18
+	- java 18
+	- kirin 1.10.0
+	- lambdabettergrass 1.2.3+1.18
+	- lambdynlights 2.1.0+1.17
+	- languagereload 1.2.1
+	- lazydfu 0.1.2
+	- lithium 0.7.9
+	- midnightlib 0.4.0
+	- minecraft 1.18.2
+	- modmenu 3.2.1
+	- morechathistory 1.1.0
+	- nofade 1.18-2.0.1
+	- notenoughcrashes 4.1.6+1.18.2
+	- omega-config 1.2.3-1.18.1
+	- org_anarres_jcpp 1.4.14
+	- org_aperlambda_lambdajcommon 1.8.1
+	- org_bundleproject_libversion 0.0.3
+	- org_jetbrains_kotlin_kotlin-reflect 1.6.21
+	- org_jetbrains_kotlin_kotlin-stdlib 1.6.21
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.6.21
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.6.21
+	- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.1
+	- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.1
+	- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.3.2
+	- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.3.2
+	- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.3.2
+	- org_joml_joml 1.10.2
+	- presencefootsteps 1.5.0
+	- pride 1.1.0+1.17
+	- puzzle 1.2.1
+	- puzzle-base 1.2.1
+	- puzzle-gui 1.2.1
+	- puzzle-models 1.2.1
+	- puzzle-splashscreen 1.2.1
+	- quilt_base 1.1.0-beta.8+1.18.2
+	- quilt_block_extensions 1.1.0-beta.8+1.18.2
+	- quilt_client_command 1.1.0-beta.8+1.18.2
+	- quilt_command 1.1.0-beta.8+1.18.2
+	- quilt_crash_info 1.1.0-beta.8+1.18.2
+	- quilt_dimension 1.1.0-beta.8+1.18.2
+	- quilt_item_group 1.1.0-beta.8+1.18.2
+	- quilt_item_setting 1.1.0-beta.8+1.18.2
+	- quilt_lifecycle_events 1.1.0-beta.8+1.18.2
+	- quilt_loader 0.16.0-beta.16
+	- quilt_networking 1.1.0-beta.8+1.18.2
+	- quilt_recipe 1.1.0-beta.8+1.18.2
+	- quilt_registry 1.1.0-beta.8+1.18.2
+	- quilt_registry_entry_attachments 1.1.0-beta.8+1.18.2
+	- quilt_resource_loader 1.1.0-beta.8+1.18.2
+	- quilt_tags 1.1.0-beta.8+1.18.2
+	- quilt_tooltip 1.1.0-beta.8+1.18.2
+	- quilted_fabric_api 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_api_base 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_api_lookup_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_biome_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_blockrenderlayer_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_command_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_commands_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_containers_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_content_registries_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_convention_tags_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_crash_report_info_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_dimensions_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_entity_events_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_events_interaction_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_events_lifecycle_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_game_rule_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_item_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_item_groups_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_key_binding_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_keybindings_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_lifecycle_events_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_loot_tables_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_mining_level_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_models_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_networking_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_networking_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_object_builder_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_particles_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_registry_sync_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_renderer_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_renderer_indigo 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_renderer_registries_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_rendering_data_attachment_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_rendering_fluids_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_rendering_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_rendering_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_resource_conditions_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_resource_loader_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_screen_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_screen_handler_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_textures_v0 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_transfer_api_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- quilted_fabric_transitive_access_wideners_v1 1.0.0-beta.12+0.51.1-1.18.2
+	- reeses-sodium-options 1.4.2
+	- settxicloth 1.0.1
+	- smoothboot 1.18.2-1.7.0
+	- sodium 0.4.1+build.15
+	- sodium-extra 0.4.3
+	- sound_physics_remastered 1.18.2-1.0.5
+	- spruceui 3.3.3+1.18
+	- starlight 1.0.2+fabric.89b8d9f
+	- tooltipfix 1.0.4-1.18
+	- voicechat 1.18.2-2.2.39
+	- yosbr 0.1.1
+	- zoomify 1.5.0
+[20:07:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/jake/.local/share/PolyMC/libraries/net/fabricmc/sponge-mixin/0.11.2+mixin.0.8.5/sponge-mixin-0.11.2+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[20:07:41] [main/INFO]: Compatibility level set to JAVA_17
+[20:07:41] [main/INFO]: Loaded configuration file for Sodium Extra: 23 options available, 0 override(s) found
+[20:07:41] [main/INFO]: Preloading Debugify
+[20:07:41] [main/INFO]: Done.
+[20:07:41] [main/INFO]: Loaded configuration file for Lithium: 100 options available, 1 override(s) found
+[20:07:41] [main/INFO]: Loaded configuration file for Sodium: 29 options available, 2 override(s) found
+[20:07:41] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[20:07:41] [main/WARN]: Force-disabling mixin 'features.fast_biome_colors.MixinBackgroundRenderer' as rule 'mixin.features.fast_biome_colors' (added by mods [colormatic]) disables it and children
+[20:07:41] [main/WARN]: Force-disabling mixin 'features.fast_biome_colors.MixinClientWorld' as rule 'mixin.features.fast_biome_colors' (added by mods [colormatic]) disables it and children
+[20:07:41] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[20:07:41] [main/INFO]: I used the json to destroy the json
+[20:07:42] [main/INFO]: Smooth Boot config initialized
+[20:07:44] [main/INFO]: [Quilt Command] Networking support is enabled
+[20:07:44] [Render thread/WARN]: Method overwrite conflict for method_22920 in sodium.mixins.json:features.buffer_builder.intrinsics.MixinBufferBuilder, previously written by net.coderbot.iris.mixin.vertices.block_rendering.MixinBufferBuilder_SeparateAo. Skipping method.
+[20:07:45] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:07:45] [Render thread/INFO]: Setting user: ItzJustJake
+[20:07:45] [Render thread/INFO]: Reloading config
+[20:07:45] [Render thread/INFO]: Reloading reverb parameters
+[20:07:45] [Render thread/INFO]: Successfully Debugify'd your game!
+[20:07:45] [Render thread/INFO]: Proudly fixes 11 bugs!
+[20:07:45] [Render thread/INFO]: NoFadeIn is running
+[20:07:45] [Render thread/INFO]: Compatibility version 14
+[20:07:45] [Render thread/INFO]: Loading plugins
+[20:07:45] [Render thread/INFO]: Loaded 1 plugin(s)
+[20:07:45] [Render thread/INFO]: Initializing plugins
+[20:07:45] [Render thread/INFO]: Initializing Simple Voice Chat integration
+[20:07:45] [Render thread/INFO]: Initialized 1 plugin(s)
+[20:07:45] [Render thread/INFO]: Registering events for sound_physics_remastered
+[20:07:45] [Render thread/INFO]: farsight mod initialized
+[20:07:45] [Render thread/INFO]: [LambdaBetterGrass] Initializing LambdaBetterGrass...
+[20:07:45] [Render thread/INFO]: [LambdaBetterGrass] Configuration loaded.
+[20:07:45] [Render thread/INFO]: [LambDynLights] Initializing LambDynamicLights...
+[20:07:45] [Render thread/INFO]: [LambDynLights] Configuration loaded.
+[20:07:45] [Render thread/INFO]: [Entity Texture Features]: Loading! 1.18.x
+[20:07:45] [Render thread/WARN]: Using Cloth Config GUI
+[20:07:45] [Render thread/INFO]: Using Cloth Config GUI
+[20:07:46] [Render thread/INFO]: Loading 62 entities from Custom Entity Models 0.7.1
+[20:07:46] [zoomify-concurrent/INFO]: Successfully put unique users metric
+[20:07:46] [Render thread/INFO]: Loading Description Cache
+[20:07:46] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[20:07:46] [Render thread/INFO]: AdvancementInfo initialized
+[20:07:46] [zoomify-concurrent/INFO]: Latest version is 1.4.0
+[20:07:46] [Render thread/INFO]: [citresewn] Registering CIT Conditions
+[20:07:46] [Render thread/INFO]: [citresewn] Registering CIT Types
+[20:07:46] [Render thread/INFO]: [Quilt Command|Client] Networking support is enabled
+[20:07:46] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[20:07:46] [Render thread/WARN]: OpenGL debug context activated.
+[20:07:47] [Render thread/INFO]: [GL] Using KHR_debug for error logging.
+[20:07:47] [Render thread/INFO]: Debug functionality is enabled, logging will be more verbose!
+[20:07:47] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
+[20:07:47] [Render thread/INFO]: Shaders are disabled
+[20:07:47] [Render thread/INFO]: Hardware information:
+[20:07:47] [Render thread/INFO]: CPU: 16x Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz
+[20:07:47] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 2070/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 510.68.02)
+[20:07:47] [Render thread/INFO]: OS: Linux (5.17.5-zen1-1-zen)
+[20:07:47] [Render thread/WARN]: Method overwrite conflict for getNativeMemoryUsage in sodium.mixins.json:features.debug.MixinDebugHud, previously written by net.coderbot.iris.mixin.MixinDebugScreenOverlay. Skipping method.
+[20:07:47] [Render thread/WARN]: ERROR : Couldn't load Narrator library
+java.lang.UnsatisfiedLinkError: Unable to load library 'fliteWrapper':
+libflite.so.1: cannot open shared object file: No such file or directory
+libflite.so.1: cannot open shared object file: No such file or directory
+Native library (linux-x86-64/libfliteWrapper.so) not found in resource path (/usr/share/jars/NewLaunch.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/home/jake/.local/share/PolyMC/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar:/home/jake/.local/share/PolyMC/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar:/home/jake/.local/share/PolyMC/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar:/home/jake/.local/share/PolyMC/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.1/log4j-slf4j18-impl-2.17.1.jar:/home/jake/.local/share/PolyMC/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar:/home/jake/.local/share/PolyMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/home/jake/.local/share/PolyMC/libraries/io/netty/netty-all/4.1.68.Final/netty-all-4.1.68.Final.jar:/home/jake/.local/share/PolyMC/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/home/jake/.local/share/PolyMC/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/home/jake/.local/share/PolyMC/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/home/jake/.local/share/PolyMC/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/datafixerupper/4.1.27/datafixerupper-4.1.27.jar:/home/jake/.local/share/PolyMC/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/authlib/3.3.39/authlib-3.3.39.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/jake/.local/share/PolyMC/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar:/home/jake/.local/share/PolyMC/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4.jar:/home/jake/.local/share/PolyMC/libraries/net/fabricmc/intermediary/1.18.2/intermediary-1.18.2.jar:/home/jake/.local/share/PolyMC/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar:/home/jake/.local/share/PolyMC/libraries/net/fabricmc/sponge-mixin/0.11.2+mixin.0.8.5/sponge-mixin-0.11.2+mixin.0.8.5.jar:/home/jake/.local/share/PolyMC/libraries/net/fabricmc/tiny-remapper/0.8.1/tiny-remapper-0.8.1.jar:/home/jake/.local/share/PolyMC/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar:/home/jake/.local/share/PolyMC/libraries/org/quiltmc/quilt-json5/1.0.1/quilt-json5-1.0.1.jar:/home/jake/.local/share/PolyMC/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar:/home/jake/.local/share/PolyMC/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar:/home/jake/.local/share/PolyMC/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar:/home/jake/.local/share/PolyMC/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar:/home/jake/.local/share/PolyMC/libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar:/home/jake/.local/share/PolyMC/libraries/org/quiltmc/quilt-loader/0.16.0-beta.16/quilt-loader-0.16.0-beta.16.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/minecraft/1.18.2/minecraft-1.18.2-client.jar)
+	at Not Enough Crashes deobfuscated stack trace.(1.18.2+build.3) ~[?:?]
+	at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:301) ~[jna-5.10.0.jar:5.10.0 (b0)]
+	at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:5.10.0 (b0)]
+	at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:5.10.0 (b0)]
+	at com.mojang.text2speech.NarratorLinux.<clinit>(NarratorLinux.java:18) ~[text2speech-1.12.4.jar:?]
+	at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:21) ~[text2speech-1.12.4.jar:?]
+	at net.minecraft.client.util.NarratorManager.<init>(NarratorManager:26) ~[?:?]
+	at net.minecraft.client.util.NarratorManager.<clinit>(NarratorManager:24) ~[?:?]
+	at net.minecraft.client.gui.hud.InGameHud.<init>(InGameHud:165) ~[?:?]
+	at net.minecraft.client.MinecraftClient.<init>(MinecraftClient:593) ~[?:?]
+	at net.minecraft.client.main.Main.main(Main:197) [client-intermediary.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at org.quiltmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:423) [quilt-loader-0.16.0-beta.16.jar:?]
+	at net.fabricmc.loader.launch.knot.Knot.launch(Knot.java:76) [quilt-loader-0.16.0-beta.16.jar:?]
+	at org.quiltmc.loader.launch.knot.KnotHelper.launchClient(KnotHelper.java:28) [quilt-loader-0.16.0-beta.16.jar:?]
+	at net.fabricmc.loader.launch.knot.KnotClient.main(KnotClient.java:23) [quilt-loader-0.16.0-beta.16.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+	Suppressed: java.lang.UnsatisfiedLinkError: libflite.so.1: cannot open shared object file: No such file or directory
+		at com.sun.jna.Native.open(Native Method) ~[jna-5.10.0.jar:5.10.0 (b0)]
+		at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:191) ~[jna-5.10.0.jar:5.10.0 (b0)]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:5.10.0 (b0)]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:5.10.0 (b0)]
+		at com.mojang.text2speech.NarratorLinux.<clinit>(NarratorLinux.java:18) ~[text2speech-1.12.4.jar:?]
+		at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:21) ~[text2speech-1.12.4.jar:?]
+		at net.minecraft.client.util.NarratorManager.<init>(NarratorManager:26) ~[?:?]
+		at net.minecraft.client.util.NarratorManager.<clinit>(NarratorManager:24) ~[?:?]
+		at net.minecraft.client.gui.hud.InGameHud.<init>(InGameHud:165) ~[?:?]
+		at net.minecraft.client.MinecraftClient.<init>(MinecraftClient:593) ~[?:?]
+		at net.minecraft.client.main.Main.main(Main:197) [client-intermediary.jar:?]
+		at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+		at org.quiltmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:423) [quilt-loader-0.16.0-beta.16.jar:?]
+		at net.fabricmc.loader.launch.knot.Knot.launch(Knot.java:76) [quilt-loader-0.16.0-beta.16.jar:?]
+		at org.quiltmc.loader.launch.knot.KnotHelper.launchClient(KnotHelper.java:28) [quilt-loader-0.16.0-beta.16.jar:?]
+		at net.fabricmc.loader.launch.knot.KnotClient.main(KnotClient.java:23) [quilt-loader-0.16.0-beta.16.jar:?]
+		at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+		at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+		at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+	Suppressed: java.lang.UnsatisfiedLinkError: libflite.so.1: cannot open shared object file: No such file or directory
+		at com.sun.jna.Native.open(Native Method) ~[jna-5.10.0.jar:5.10.0 (b0)]
+		at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:204) ~[jna-5.10.0.jar:5.10.0 (b0)]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:5.10.0 (b0)]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:5.10.0 (b0)]
+		at com.mojang.text2speech.NarratorLinux.<clinit>(NarratorLinux.java:18) ~[text2speech-1.12.4.jar:?]
+		at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:21) ~[text2speech-1.12.4.jar:?]
+		at net.minecraft.client.util.NarratorManager.<init>(NarratorManager:26) ~[?:?]
+		at net.minecraft.client.util.NarratorManager.<clinit>(NarratorManager:24) ~[?:?]
+		at net.minecraft.client.gui.hud.InGameHud.<init>(InGameHud:165) ~[?:?]
+		at net.minecraft.client.MinecraftClient.<init>(MinecraftClient:593) ~[?:?]
+		at net.minecraft.client.main.Main.main(Main:197) [client-intermediary.jar:?]
+		at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+		at org.quiltmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:423) [quilt-loader-0.16.0-beta.16.jar:?]
+		at net.fabricmc.loader.launch.knot.Knot.launch(Knot.java:76) [quilt-loader-0.16.0-beta.16.jar:?]
+		at org.quiltmc.loader.launch.knot.KnotHelper.launchClient(KnotHelper.java:28) [quilt-loader-0.16.0-beta.16.jar:?]
+		at net.fabricmc.loader.launch.knot.KnotClient.main(KnotClient.java:23) [quilt-loader-0.16.0-beta.16.jar:?]
+		at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+		at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+		at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+	Suppressed: java.io.IOException: Native library (linux-x86-64/libfliteWrapper.so) not found in resource path (/usr/share/jars/NewLaunch.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/home/jake/.local/share/PolyMC/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar:/home/jake/.local/share/PolyMC/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar:/home/jake/.local/share/PolyMC/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar:/home/jake/.local/share/PolyMC/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.1/log4j-slf4j18-impl-2.17.1.jar:/home/jake/.local/share/PolyMC/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar:/home/jake/.local/share/PolyMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/home/jake/.local/share/PolyMC/libraries/io/netty/netty-all/4.1.68.Final/netty-all-4.1.68.Final.jar:/home/jake/.local/share/PolyMC/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/home/jake/.local/share/PolyMC/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/home/jake/.local/share/PolyMC/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/home/jake/.local/share/PolyMC/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/datafixerupper/4.1.27/datafixerupper-4.1.27.jar:/home/jake/.local/share/PolyMC/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/authlib/3.3.39/authlib-3.3.39.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/jake/.local/share/PolyMC/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar:/home/jake/.local/share/PolyMC/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar:/home/jake/.local/share/PolyMC/libraries/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4.jar:/home/jake/.local/share/PolyMC/libraries/net/fabricmc/intermediary/1.18.2/intermediary-1.18.2.jar:/home/jake/.local/share/PolyMC/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar:/home/jake/.local/share/PolyMC/libraries/net/fabricmc/sponge-mixin/0.11.2+mixin.0.8.5/sponge-mixin-0.11.2+mixin.0.8.5.jar:/home/jake/.local/share/PolyMC/libraries/net/fabricmc/tiny-remapper/0.8.1/tiny-remapper-0.8.1.jar:/home/jake/.local/share/PolyMC/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar:/home/jake/.local/share/PolyMC/libraries/org/quiltmc/quilt-json5/1.0.1/quilt-json5-1.0.1.jar:/home/jake/.local/share/PolyMC/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar:/home/jake/.local/share/PolyMC/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar:/home/jake/.local/share/PolyMC/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar:/home/jake/.local/share/PolyMC/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar:/home/jake/.local/share/PolyMC/libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar:/home/jake/.local/share/PolyMC/libraries/org/quiltmc/quilt-loader/0.16.0-beta.16/quilt-loader-0.16.0-beta.16.jar:/home/jake/.local/share/PolyMC/libraries/com/mojang/minecraft/1.18.2/minecraft-1.18.2-client.jar)
+		at com.sun.jna.Native.extractFromResourcePath(Native.java:1145) ~[jna-5.10.0.jar:5.10.0 (b0)]
+		at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:275) ~[jna-5.10.0.jar:5.10.0 (b0)]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:5.10.0 (b0)]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:5.10.0 (b0)]
+		at com.mojang.text2speech.NarratorLinux.<clinit>(NarratorLinux.java:18) ~[text2speech-1.12.4.jar:?]
+		at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:21) ~[text2speech-1.12.4.jar:?]
+		at net.minecraft.client.util.NarratorManager.<init>(NarratorManager:26) ~[?:?]
+		at net.minecraft.client.util.NarratorManager.<clinit>(NarratorManager:24) ~[?:?]
+		at net.minecraft.client.gui.hud.InGameHud.<init>(InGameHud:165) ~[?:?]
+		at net.minecraft.client.MinecraftClient.<init>(MinecraftClient:593) ~[?:?]
+		at net.minecraft.client.main.Main.main(Main:197) [client-intermediary.jar:?]
+		at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+		at org.quiltmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:423) [quilt-loader-0.16.0-beta.16.jar:?]
+		at net.fabricmc.loader.launch.knot.Knot.launch(Knot.java:76) [quilt-loader-0.16.0-beta.16.jar:?]
+		at org.quiltmc.loader.launch.knot.KnotHelper.launchClient(KnotHelper.java:28) [quilt-loader-0.16.0-beta.16.jar:?]
+		at net.fabricmc.loader.launch.knot.KnotClient.main(KnotClient.java:23) [quilt-loader-0.16.0-beta.16.jar:?]
+		at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+		at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+		at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+[20:07:47] [Render thread/INFO]: ARRP register - before vanilla
+[20:07:47] [Render thread/INFO]: ARRP register - after vanilla
+[20:07:47] [Render thread/INFO]: Reloading ResourceManager: Default (Quilt Item Setting API, Not Enough Crashes, Quilted Fabric Loot Tables (v1), Quilted Fabric Item Groups (v0), Quilted Fabric Renderer API (v1), DCCH, LambdaBetterGrass, Sound Physics Remastered, Quilted Fabric Networking API (v1), Quilted Fabric Crash Report Info (v1), Quilt Command API, Puzzle Models, Quilted Fabric Networking (v0), Quilt Block Extensions API, Quilted Fabric Game Rule API (v1), LambDynamicLights, Iris, Quilted Fabric Renderer Registries (v1), Quilted Fabric Commands (v0), Quilted Fabric Resource Conditions API (v1), Quilted Fabric Command API (v1), Borderless Mining, Language Reload, Quilt Dimension API, Pride Lib, Zoomify, Quilted Fabric Rendering Data Attachment (v1), Entity Texture Features, MoreChatHistory, Mod Menu, Sodium Extra, Fabrishot, Quilted Fabric Object Builder API (v1), Quilted Fabric Containers (v0), Quilted Fabric Entity Events (v1), CaffeineConfig, Quilted Fabric Convention Tags API (v1), Custom Entity Models, Quilt Base API, Puzzle GUI, Reese's Sodium Options, Quilted Fabric Item API (v1), Fabric Language Kotlin, Quilted Fabric Models (v0), Quilted Fabric Biome API (v1), Quilted Fabric Events Lifecycle (v0), Quilted Fabric API Base, AntiGhost, Colormatic, Enhanced Block Entities, Cloth Config v6, Quilt Crash Info, Quilt Client Command API, Quilt Loader, Quilted Fabric Lifecycle Events (v1), Quilted Fabric API Lookup API (v1), Quilted Fabric Renderer - Indigo, Quilted Fabric Transitive Access Wideners (v1), Quilt Item Group API, Quilted Fabric Rendering Fluids (v1), Quilt Registry API, Lithium, ToolTip Fix, Quilted Fabric Rendering (v0), Quilt Resource Loader, Quilt Tags API, Quilted Fabric Rendering (v1), Quilted Fabric Transfer API (v1), Capes, Quilt Networking, Quilted Fabric API, Quilted Fabric Dimensions API (v1), Animatica, MidnightLib, LazyDFU, Starlight, AdvancementInfo, Quilted Fabric Screen Handler API (v1), Quilt Recipe API, Puzzle Base, Quilted Fabric Textures (v0), Sodium, Dynamic FPS, CIT Resewn: Defaults, Quilted Fabric Events Interaction (v0), No Fade, Quilt Tooltip API, Quilted Fabric Registry Sync (v0), Simple Voice Chat, Quilted Fabric Key Bindings (v0), Quilt Registry Entry Attachments, Quilt Lifecycle Events, Quilted Fabric Resource Loader (v0), Smooth Boot, CIT Resewn, OmegaConfig, Quilted Fabric Screen API (v1), SpruceUI, Puzzle Splash Screen, EntityCulling-Fabric, CompleteConfig, Quilted Fabric Content Registries (v0), Farsight Mod, Quilted Fabric Particles (v1), Gamma Utils, Cull Less Leaves, Indium, Continuity, Quilted Fabric Mining Level API (v1), Item Model Fix, Runtime Resource Pack, AppleSkin, YOSBR, Quilted Fabric BlockRenderLayer Registration (v1), Puzzle, Quilted Fabric Key Binding API (v1), Presence Footsteps), lambdabettergrass/default, continuity/default, continuity/glass_pane_culling_fix, Mod Menu Helper.zip, Compliance-32x-Java-Beta-20.zip, Smaller Crosshair - 1.16.zip, Compliance 32x Daggers V1.zip
+[20:07:47] [Render thread/INFO]: [LambdaBetterGrass] Inject generated resource packs.
+[20:07:47] [Render thread/ERROR]: [citresewn] Caution! Broken paths is enabled!
+[20:07:49] [Render thread/INFO]: [Entity Texture Features]: Reloading...
+[20:07:49] [Render thread/INFO]: [Entity Texture Features]: Error! default emissive suffix '_e' used
+[20:07:49] [Render thread/INFO]: OpenAL initialized on device JACK Default
+[20:07:49] [Render thread/INFO]: Initializing Sound Physics
+[20:07:49] [Render thread/INFO]: EFX Extension recognized
+[20:07:49] [Render thread/INFO]: Aux slot 1 created
+[20:07:49] [Render thread/INFO]: Aux slot 2 created
+[20:07:49] [Render thread/INFO]: Aux slot 3 created
+[20:07:49] [Render thread/INFO]: Aux slot 4 created
+[20:07:49] [Render thread/INFO]: EFX ready
+[20:07:49] [Render thread/INFO]: Sound engine started
+[20:07:49] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[20:07:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/signs.png-atlas
+[20:07:49] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[20:07:49] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[20:07:49] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/chest.png-atlas
+[20:07:49] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/beds.png-atlas
+[20:07:49] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[20:07:50] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/particles.png-atlas
+[20:07:50] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/paintings.png-atlas
+[20:07:50] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/mob_effects.png-atlas
+[20:07:50] [Render thread/INFO]: Skipping non-result value minecraft:lantern=UNASSIGNED
+[20:07:50] [Render thread/INFO]: Skipping non-result value minecraft:soul_lantern=UNASSIGNED
+[20:07:54] [Render thread/INFO]: Connecting to smp.xrcraftmc.com, 25565
+[20:07:55] [Render thread/INFO]: Reloading pipeline on dimension change: null => OVERWORLD
+[20:07:55] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[20:07:55] [Render thread/INFO]: Started 10 worker threads
+[20:07:55] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:07:55] [Render thread/INFO]: Sending secret request to the server
+[20:07:55] [Render thread/INFO]: Initializing sound physics for voice chat audio
+[20:07:55] [Render thread/INFO]: Initializing Sound Physics
+[20:07:55] [Render thread/INFO]: EFX Extension recognized
+[20:07:55] [Render thread/INFO]: Aux slot 1 created
+[20:07:55] [Render thread/INFO]: Aux slot 2 created
+[20:07:55] [Render thread/INFO]: Aux slot 3 created
+[20:07:55] [Render thread/INFO]: Aux slot 4 created
+[20:07:55] [Render thread/INFO]: EFX ready
+[20:07:55] [Render thread/WARN]: Received passengers for unknown entity
+[20:07:55] [Render thread/WARN]: Received passengers for unknown entity
+[20:07:55] [Render thread/INFO]: [CHAT] ItzJustJake joined the game
+[20:07:55] [Render thread/INFO]: Loaded 648 advancements
+[20:07:56] [Render thread/INFO]: Received secret
+[20:07:56] [Render thread/INFO]: Connecting to server: '104.152.140.231:8116'
+[20:07:56] [VoiceChatAuthenticationThread/INFO]: Trying to authenticate voice connection
+[20:07:56] [VoiceChatConnectionThread/INFO]: Server acknowledged authentication
+[20:07:56] [VoiceChatConnectionThread/INFO]: Clearing unused audio channels
+[20:07:56] [Thread-20/INFO]: Using Opus version 'libopus 1.3.1'
+[20:07:57] [Render thread/INFO]: [CHAT] You have 1 mails. Click to check them out.
+[20:10:05] [Render thread/INFO]: [CHAT] The claim tool is not enabled. Use /claimtool to re-enable for claiming.
+[20:10:37] [Render thread/INFO]: [CHAT] --------------------------------------------------
+[20:10:37] [Render thread/INFO]: [CHAT]  [X] 01.  JaffaJace: you build penises bc you like em huh 
+[20:10:39] [Render thread/INFO]: Villager class_1646['Villager'/3432027, l='ClientLevel', x=-1435.49, y=57.00, z=-3287.76] died, message: 'Villager died'
+[20:10:57] [Render thread/INFO]: [CHAT] FlamegamerMC joined the game
+[20:11:38] [Sound engine/ERROR]: Stop: Invalid name parameter.
+[20:13:53] [Render thread/INFO]: Loaded 649 advancements
+[20:15:15] [Render thread/INFO]: [CHAT] FlamegamerMC left the game
+[20:19:55] [Render thread/INFO]: Clearing audio channels
+[20:19:55] [Render thread/INFO]: Stopping microphone thread
+[20:19:55] [Render thread/INFO]: Disconnecting voicechat
+[20:19:55] [Render thread/INFO]: Clearing unused audio channels
+[20:19:55] [Render thread/INFO]: Stopping worker threads
+[20:19:59] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
+[20:19:59] [Render thread/INFO]: Stopping!
