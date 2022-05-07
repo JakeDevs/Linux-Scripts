@@ -16,7 +16,7 @@ makepkg -si
 
 paru -S pamac-aur
 
-sudo pacman -S discord steam alacritty bitwarden -y
+sudo pacman -S discord steam kitty bitwarden -y
 
 paru -S helix-git --noconfirm
 
@@ -32,18 +32,19 @@ cp config.toml /home/jake/.config/helix
 
 cd
 
-mkdir /home/jake/.config/alacritty
 
 cd Downloads
 
 cd Linux-Scripts
 
-cp alacritty.yml /home/jake/.config/alacritty
-
 paru -S polymc-bin --noconfirm
 
-sudo pacman -S steam discord bitwarden firefox
+sudo pacman -S steam discord bitwarden firefox neovim npm nodejs
 
 ssh-keygen -o
 
 cat /home/jake/.ssh/id_rsa.pub 
+
+paru -S visual-studio-code-bin -- noconfirm
+
+
