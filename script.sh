@@ -14,11 +14,7 @@ cd paru
 
 makepkg -si
 
-paru -S pamac-aur
-
-sudo pacman -S discord steam kitty bitwarden -y
-
-paru -S helix-git --noconfirm
+paru -S helix-git pamac-aur polymc-bin --noconfirm
 
 cd
 
@@ -37,9 +33,11 @@ cd Downloads
 
 cd Linux-Scripts
 
-paru -S polymc-bin --noconfirm
 
-sudo pacman -S steam discord bitwarden firefox neovim npm nodejs
+sudo pacman -S steam discord bitwarden firefox neovim npm nodejs --noconfirm
+
+git config --global user.email "jakedevquestions@gmail.com"
+git config --global user.name "Jake"
 
 ssh-keygen -o
 
