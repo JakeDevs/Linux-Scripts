@@ -434,7 +434,7 @@
 #   - (Linux/BSD) user login shell
 #   - (Windows) powershell
 shell:
-  program: /bin/nu
+  program: /bin/bash
 #  args:
 #    - --login
 
