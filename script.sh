@@ -34,7 +34,10 @@ cd Downloads
 cd Linux-Scripts
 
 
-sudo pacman -S steam discord bitwarden firefox neovim npm nodejs --noconfirm
+sudo pacman -S steam discord bitwarden firefox neovim npm nodejs kitty --noconfirm
+
+cp kitty /home/jake/.config/
+
 
 git config --global user.email "jakedevquestions@gmail.com"
 git config --global user.name "Jake"
