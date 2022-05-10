@@ -46,6 +46,6 @@ ssh-keygen -o
 
 cat /home/jake/.ssh/id_rsa.pub 
 
-paru -S visual-studio-code-bin -- noconfirm
+paru -S visual-studio-code-bin kwin-konsave --noconfirm
 
 
