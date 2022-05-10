@@ -24,6 +24,8 @@ git clone https://github.com/JakeDevs/Linux-Scripts
 
 cd Linux-Scripts/helix
 
+mkdir /home/jake/.config/helix
+
 cp config.toml /home/jake/.config/helix
 
 cd
