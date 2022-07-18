@@ -36,7 +36,7 @@ cd Downloads
 cd Linux-Scripts
 
 
-sudo pacman -S steam discord bitwarden firefox neovim npm nodejs kitty --noconfirm
+sudo pacman -S steam discord bitwarden firefox neovim npm nodejs kitty emacs --noconfirm
 
 cp kitty /home/jake/.config/
 
